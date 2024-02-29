@@ -11,10 +11,10 @@
     }, _typeof(obj);
   }
 
-  var host = 'https://bwa.to';
-  var hostcloud = ['https://bwa.to/cloud.js?v=110224'];
+  var host = 'http://bwa.to';
+  var hostcloud = ['http://bwa.to/cloud.js?v=110224'];
 
-  var framework = 'https://bwa.pages.dev';
+  var framework = 'http://bwa.pages.dev';
   var framework_version = '?v=210224';
 
   var plugins = ["o.js"];
