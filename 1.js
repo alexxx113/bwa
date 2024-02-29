@@ -89,7 +89,7 @@
 
           if (Lampa.Platform.is('android') || Lampa.Platform.is('tizen')) check(true);
           else {
-            net.silent('https://github.com/', function() {
+            net.silent('http://github.com/', function() {
               check(true);
             }, function() {
               check(false);
